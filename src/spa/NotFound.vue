@@ -3,7 +3,7 @@
     class="NotFound__Wrapper">
     <span
       class="md-display-2">
-      Ops... 404.
+      Oops... 404.
     </span>
   </div>
 </template>
